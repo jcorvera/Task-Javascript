@@ -1,4 +1,8 @@
 # Task-Javascript
 
-CRUD de Task con localStorage 
+CRUD - Task 
+Tecnologies.
+ * localStorage of browser
+ * JavaScript
+ 
 
